@@ -1,0 +1,9 @@
+Matthew Prock Final Project Idea
+
+The idea is a 4x4 grid of LEDs that shows a random set of on and off LEDs, 4 LEDs to represent the parity bits for that data.  The idea is that a single bit has been flipped during transmission, and the game is to solve which bit has been flipped.  There will be a button to select which LED should be flipped, when its clicked the next bit will be selected and blink showing its the current selection.  There is another button to lock in the selection.  
+
+If the player is right, the Board will flash in a "winning" kind of way,  whether its stripes moving diagonally, and the 4 LED key indicator will flash all 4 bits on and off.  If its wrong, there will be some kind of X or negative feedback on the whole board, and the key bar will alternate bits(0,2 then (1,3) etc.  The patterns are subject to change depending on how challenging they are, but it should be just a straight forward list of the pattern configurations.  
+
+The first bit is columns 1 and 3 on the board, second is 2 and 3, third is rows 1 and 3, fourth is 2 and 3. 
+
+The last button is to reset the game with a new board and key.  
