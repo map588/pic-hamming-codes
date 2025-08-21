@@ -114,7 +114,6 @@ The system implements an elegant visual effect where two boards (BOARDPTR and BO
 │   └── libraries/        # Custom component libraries
 ├── software/
 │   ├── src/              # PIC assembly source code
-│   └── lib/              # Algorithm documentation
 ├── docs/
 │   ├── images/           # Project photos and screenshots
 │   ├── datasheets/       # Component specifications
