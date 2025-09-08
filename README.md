@@ -6,7 +6,7 @@ A PIC16F818 microcontroller-based educational game that teaches error detection 
 
 This project implements a 4x4 LED grid game where players must identify and correct single-bit errors in transmitted data using parity bits. The system displays random data with intentional errors, and players use buttons to select and correct the flipped bit. 
 
-I was inspired to do make the project by [this excellant video](https://youtu.be/wTJI_WuZSwE?si=To3kZnW4QarjRsSB) by 3Blue1Brown on youtube.  Its really good, you should go watch it, its way better than my boring assembly code. 
+I was inspired to make the project by [this excellant video](https://youtu.be/wTJI_WuZSwE?si=To3kZnW4QarjRsSB) by 3Blue1Brown on youtube.  Its really good, you should go watch it, its way better than my boring assembly code. 
 
 
 
